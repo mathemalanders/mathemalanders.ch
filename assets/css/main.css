@@ -184,7 +184,8 @@ sub {
 sup {
   font-size: 0.8em;
   position: relative;
-  top: -0.5em; }
+  top: -0.5em;
+  color: red; }
 
 blockquote {
   border-left: solid 3px rgba(210, 215, 217, 0.75);
